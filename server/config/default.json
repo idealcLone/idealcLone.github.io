@@ -1,0 +1,5 @@
+{
+    "port": 3000,
+    "mongoUri": "mongodb+srv://admin:admin@cluster0.fd5ds.mongodb.net/screening?retryWrites=true&w=majority",
+    "secret": "clone"
+}
